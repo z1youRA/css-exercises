@@ -56,10 +56,9 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
 }
 
 a {
   text-decoration: none;
-  color:rgba(88, 66, 66, 0.664);
+  color:rgba(0, 0, 0, 0.664);
 }
