@@ -4,8 +4,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 8px; 
-  flex: 1 0 0;
 }
 
 .logo {
@@ -13,7 +11,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  padding: 0px 32px;
   margin-left: auto;
   margin-right: auto;
 }
