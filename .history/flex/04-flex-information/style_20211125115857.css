@@ -3,13 +3,11 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 32px;
-  text-align: center;
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 .title {
@@ -34,7 +32,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 200px;
 }
 
 .information{
@@ -43,3 +40,7 @@ img {
   align-items: center;
   justify-content: center;
 }
+
+/* .title{
+  text-align: center;
+} */
