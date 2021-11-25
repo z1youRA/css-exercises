@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-/* This solution is a bit of complicated
-   it's possible to use less flexboxes because header, text and buttons are arranged in order already.
-*/
+
 html, body {
   height: 100%;
 }
@@ -83,14 +81,8 @@ button.cancel {
   align-items: center;
   justify-content: flex-start;
 }
+
 .header{
   font-size: 22px; 
-  font-weight: bold;
-}
-
-.headline{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   margin-bottom: -7px;
 }
